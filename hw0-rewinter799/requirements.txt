@@ -1,4 +1,0 @@
-# packages required to run code
-numpy
-tqdm
-matplotlib
